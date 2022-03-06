@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @huesosik1
+- 👀 I’m interested in Chlen Sosat
+- 🌱 I’m currently learning Python, Dru
+- 💞️ I’m looking to collaborate on C++
+- 📫 How to reach me tg @pidoras
